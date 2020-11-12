@@ -4,7 +4,7 @@ In Lab 19 you generated iterative implementations of the Fibonacci sequence and 
 
 ### Fibonacci Sequence ###
 
-This function will accept one parameter `n`.  If `n` is 5, then you should print the 5th number in the Fibonacci sequence, a 3.
+This function will accept one parameter `n`.  If `n` is 5, then you should return the 5th number in the Fibonacci sequence, a 3.
 
 ### Factorial ###
 
